@@ -1,4 +1,4 @@
-# Problème rencontré
+# Problèmes rencontrés
 J'utilise l'ancienne version de TinyMesh.
 Donc je n'ai pas les boutons d'utilisable Pour voir les formes il faut décommenter à la main pour avoir les formes souhaités.
 C'est pour cela qu'il y a 3 BoxMeshExample.
